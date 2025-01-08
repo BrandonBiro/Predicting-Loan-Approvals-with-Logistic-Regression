@@ -28,4 +28,4 @@ The dataset includes the following features:
 3. **Logistic Regression Modeling**:
    - Built and evaluated a predictive model.
 4. **Model Evaluation**:
-   - Used metrics like accuracy, precision, recall, and F1-score to assess model performance.
+   - Used metrics like accuracy, precision, recall, and odds ratios to assess model performance and implications.
